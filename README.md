@@ -1,4 +1,4 @@
-# VQA
+# VQA (Visual Question and Answering)
 0. Related Works (연구동향)
 1. Objective (목적, 목표)
 2. Problem Definition (문제정의)
