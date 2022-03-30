@@ -2,5 +2,5 @@
 
 1. 머신러닝 개요 및 KNN
 2. 선형모델과 로지스틱 회귀
-3. Design (설계, 디자인)
-4. Implementation (실습)
+3. Decision Tree
+4. SVM
