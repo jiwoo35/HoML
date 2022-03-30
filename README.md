@@ -1,6 +1,6 @@
 # Hands on Machine Learning
-0. Related Works (연구동향)
-1. Objective (목적, 목표)
-2. Problem Definition (문제정의)
+
+1. 머신러닝 개요 및 KNN
+2. 로지스틱 회귀
 3. Design (설계, 디자인)
 4. Implementation (실습)
